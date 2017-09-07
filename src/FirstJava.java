@@ -6,6 +6,7 @@ public class FirstJava {
 	System.out.println("This is a demo");
 	System.out.println("This is a demonstration");
 	System.out.println("This is a live Telecast");
+	System.out.println("This is a Strange");
 
 	}
 }
